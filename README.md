@@ -1,1 +1,4 @@
-Idustrial Decarbonization Grid Modeling
+WECC Grid Model
+
+Capacity Expansion
+Production Cost
