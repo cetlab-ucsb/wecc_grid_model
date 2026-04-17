@@ -1,12 +1,12 @@
 # WECC Grid Model
 
-GridPath model of Western Interconnection grid model.
+Western Interconnection grid model based on GridPath (`https://github.com/blue-marble/gridpath`).
 
-Capabilities:
+**Capabilities**:
 * Capacity Expansion Model (CEM).
 * Production Cost Model (PCM).
 
-Spatial resolution:
+**Spatial resolution**:
 * WECC balancing Authorites
 
 Industrial Decarbonization Grid team, the 2035 Initiative.
