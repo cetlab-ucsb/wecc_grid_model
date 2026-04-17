@@ -1,4 +1,4 @@
 WECC Grid Model
 
-Capacity Expansion
-Production Cost
+* Capacity Expansion Model (CEM)
+* Production Cost Model (PCM)
