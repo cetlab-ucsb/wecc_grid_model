@@ -1,6 +1,6 @@
-WECC Grid Model
+# WECC Grid Model
 
-* Capacity Expansion Model (CEM)
-* Production Cost Model (PCM)
+* Capacity Expansion Model (CEM).
+* Production Cost Model (PCM).
 
-Industrial Decarbonization Grid team at the 2036 Initiative
+Industrial Decarbonization Grid team, the 2035 Initiative.
