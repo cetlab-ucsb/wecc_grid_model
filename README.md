@@ -14,4 +14,7 @@ Western Electricity Coordinating Council (WECC) grid model based on GridPath (`h
 * CEM representative timepoints per period.
 * PCM 8760 timepoints per period.
 
+**Grid Topology**
+* Transmission adapted from GridPath RA Toolkit (`https://github.com/MomentEI/GridPath_RA_Toolkit`).
+
 Industrial Decarbonization Grid team, the 2035 Initiative.
